@@ -1,0 +1,2 @@
+# addressbook_java
+使用Java语言及MySQL数据库实现的小型通讯录应用
